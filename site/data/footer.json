@@ -1,4 +1,7 @@
 {
-    "title": "Newsletter subscribe",
-    "blurb": "Get awesome news from us in your inbox every two weeks. Be the first to learn about new products."
+    "title": "Kontaktujte nás",
+    "email": "example@example.com",
+    "phoneNumber": "123 456 789",
+    "instagramUsername": "instagram",
+    "facebookUsername": "facebook"
 }
